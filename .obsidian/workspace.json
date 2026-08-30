@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "会议/UTC+8 202608300900AM.md",
+                "file": "meeting summary/UTC+8 202608300900AM.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "会议/UTC+8 202608300900AM.md",
+                "file": "tech docs/UI tech/数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "会议/UTC+8 202608300900AM.md",
+                "file": "tech docs/UI tech/数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,13 +161,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "会议/UTC+8 202608300900AM.md",
+                "file": "tech docs/UI tech/数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "大纲"
+            }
+          },
+          {
+            "id": "59c3e4a422700900",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "meeting summary/UTC+8 202608300900AM.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "脚注"
             }
           }
         ]
@@ -185,14 +197,31 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
   "active": "bc773e505057c73f",
   "lastOpenFiles": [
+    "tech docs/UI tech/数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
+    "tech docs/UI tech",
+    "tech docs/新建文件夹",
+    "tech docs/数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
+    "meeting summary/UTC+8 202608300900AM.md",
+    "meeting summary",
+    "会议/UTC+8 202608300900AM.md",
+    "meeting conclu/UTC+8 202608300900AM.md",
+    "meeting conclu",
+    "tech docs",
+    "新建文件夹",
+    "数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
     "README.md",
     "欢迎.md",
-    "会议/UTC+8 202608300900AM.md",
     "会议"
   ]
 }
