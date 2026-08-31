@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9003592e612beadd",
+        "id": "02d21bc0b8c23eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "bc773e505057c73f",
+            "id": "abc06ca412d0dd54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "meeting summary/UTC+8 202608300900AM.md",
+                "file": "API docs/3. SideView & TopDown Kit API 设计表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UTC+8 202608300900AM"
+              "title": "3. SideView & TopDown Kit API 设计表"
             }
           }
         ]
@@ -206,13 +206,25 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "bc773e505057c73f",
+  "active": "abc06ca412d0dd54",
   "lastOpenFiles": [
+    "API docs/2. Prefab 清单与验收标准表 (Definition of Done).md",
+    "API docs/3. SideView & TopDown Kit API 设计表.md",
+    "API docs/1. 项目目录结构表.md",
+    "API docs/4. 敌人系统 API.md",
+    "API docs/5. 关卡与交互 API.md",
+    "meeting summary/UTC+8 202608300900AM.md",
+    "API docs/11. 已知问题与 TODO.md",
+    "API docs/10. 美术接入文档.md",
+    "API docs/9. 策划配置文档.md",
+    "API docs/8. 音频与特效 API.md",
+    "API docs/7. 事件系统 API.md",
+    "API docs/6. UI 系统 API.md",
+    "API docs",
     "tech docs/UI tech/数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
     "tech docs/UI tech",
     "tech docs/新建文件夹",
     "tech docs/数据驱动的Unity 6.5 UI管理器：从架构设计到多点触控交互实现.md",
-    "meeting summary/UTC+8 202608300900AM.md",
     "meeting summary",
     "会议/UTC+8 202608300900AM.md",
     "meeting conclu/UTC+8 202608300900AM.md",
